@@ -1,0 +1,1054 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-11T07:49:12.044Z"}
+info: Connected to the database. {"timestamp":"2024-10-11T07:49:12.077Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:34:48.103Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:34:48.145Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '85' }" (type Object) at path "_id" for model "User"
+    at model.Query.exec (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/85 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-10-14T09:37:19.811Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:06.864Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:06.883Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:13.658Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:13.682Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:16.071Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:16.089Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:25.298Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:25.318Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:27.757Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:27.777Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:41.446Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:41.464Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:45:59.103Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:45:59.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:46:04.861Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:46:04.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:46:09.153Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:46:09.172Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:46:11.878Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:46:11.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:46:17.703Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:46:17.722Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:11.692Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:11.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:14.919Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:14.940Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:21.259Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:21.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:28.330Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:28.347Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:34.695Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:34.722Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:40.846Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:40.867Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:51:47.365Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:51:47.387Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is not allowed 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-14T09:52:49.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:53:31.269Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:53:31.285Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T09:55:25.468Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T09:55:25.493Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T10:22:40.590Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T10:22:40.614Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T10:23:28.074Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T10:23:28.089Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T10:23:35.718Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T10:23:35.737Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T10:23:48.437Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T10:23:48.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T10:24:55.514Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T10:24:55.531Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T11:14:15.190Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T11:14:15.205Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/670cf1c4bc30602f1423e93a 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2024-10-14T11:14:20.152Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-14T11:14:27.092Z"}
+info: Connected to the database. {"timestamp":"2024-10-14T11:14:27.103Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-15T05:42:18.308Z"}
+info: Connected to the database. {"timestamp":"2024-10-15T05:42:18.327Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-15T07:42:35.906Z"}
+info: Connected to the database. {"timestamp":"2024-10-15T07:42:36.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-15T07:46:02.000Z"}
+info: Connected to the database. {"timestamp":"2024-10-15T07:46:02.032Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-15T07:46:51.416Z"}
+info: Connected to the database. {"timestamp":"2024-10-15T07:46:51.453Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-15T07:51:18.144Z"}
+info: Connected to the database. {"timestamp":"2024-10-15T07:51:18.221Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-15T07:53:49.923Z"}
+info: Connected to the database. {"timestamp":"2024-10-15T07:53:49.982Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T08:13:43.306Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T08:13:43.380Z"}
+error: 
+    status - 500 
+    message - ValidationError: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.
+    at model.Document.invalidate (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:2788:32)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:2580:17
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\schematype.js:1273:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T08:14:15.384Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T08:18:55.966Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T08:18:55.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T08:19:23.797Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T08:19:23.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T08:22:00.111Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T08:22:00.304Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T08:22:27.249Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T08:22:27.282Z"}
+error: uncaughtException: notesRoute is not defined
+ReferenceError: notesRoute is not defined
+    at routes (D:\BackendWorkspace\nodeProject\src\routes\/index.js:15:24)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\/index.js:32:38)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.runMain (node:internal/modules/run_main:174:12)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Wed Oct 16 2024 15:19:18 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":529708.64},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18278791,"external":21247658,"heapTotal":80773120,"heapUsed":49935600,"rss":120496128},"pid":14548,"uid":null,"version":"v20.16.0"},"stack":"ReferenceError: notesRoute is not defined\n    at routes (D:\\BackendWorkspace\\nodeProject\\src\\routes\\/index.js:15:24)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:32:38)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-16T09:49:18.460Z","trace":[{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\src\\routes\\/index.js","function":"routes","line":15,"method":null,"native":false},{"column":38,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:51:32.773Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:51:32.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:51:37.601Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:51:37.623Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:52:02.512Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:52:02.528Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'createNote')
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/notes.controller.js:6:41)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at createNote (D:\BackendWorkspace\nodeProject\src\controllers\/notes.controller.js:4:24)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/create 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T09:53:14.038Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:53:59.574Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:53:59.595Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:54:11.787Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:54:11.805Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:57:14.390Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:57:14.417Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T09:57:23.904Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T09:57:23.924Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:00:11.110Z"}
+error: uncaughtException: database names cannot contain the character '/'
+MongoError: database names cannot contain the character '/'
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\error.js:59:12)
+    at validateDatabaseName (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\operations\db_ops.js:351:24)
+    at new Db (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\db.js:193:3)
+    at MongoClient.db (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\mongo_client.js:379:14)
+    at _setClient (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\connection.js:883:58)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\connection.js:841:7
+    at D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\utils.js:704:5
+    at D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\mongo_client.js:286:7
+    at connectCallback (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\operations\connect.js:367:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\operations\connect.js:557:5
+    at Object.connectHandler [as callback] (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\sdam\topology.js:298:43)
+    at processWaitQueue (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\sdam\topology.js:1066:21)
+    at NativeTopology.serverUpdateHandler (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\sdam\topology.js:571:7)
+    at Server.emit (node:events:519:28)
+    at Server.emit (node:domain:488:12)
+    at Monitor.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\sdam\server.js:154:12)
+    at Monitor.emit (node:events:531:35)
+    at Monitor.emit (node:domain:488:12)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\sdam\monitor.js:292:13
+    at callback (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\connection\connect.js:75:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\core\connection\connect.js:165:7
+    at MessageStream.messageHandler (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\cmap\connection.js:308:5)
+    at MessageStream.emit (node:events:519:28)
+    at MessageStream.emit (node:domain:488:12)
+    at processIncomingData (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (D:\BackendWorkspace\nodeProject\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1007:22)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:191:23) {"date":"Wed Oct 16 2024 15:30:11 GMT+0530 (India Standard Time)","error":{"driver":true,"name":"MongoError"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":530361.328},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18279439,"external":21266765,"heapTotal":82440192,"heapUsed":46610672,"rss":121622528},"pid":9116,"uid":null,"version":"v20.16.0"},"stack":"MongoError: database names cannot contain the character '/'\n    at Function.create (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\error.js:59:12)\n    at validateDatabaseName (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\operations\\db_ops.js:351:24)\n    at new Db (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\db.js:193:3)\n    at MongoClient.db (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\mongo_client.js:379:14)\n    at _setClient (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongoose\\lib\\connection.js:883:58)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\mongoose\\lib\\connection.js:841:7\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\utils.js:704:5\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\mongo_client.js:286:7\n    at connectCallback (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\operations\\connect.js:367:5)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\operations\\connect.js:557:5\n    at Object.connectHandler [as callback] (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js:298:43)\n    at processWaitQueue (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js:1066:21)\n    at NativeTopology.serverUpdateHandler (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js:571:7)\n    at Server.emit (node:events:519:28)\n    at Server.emit (node:domain:488:12)\n    at Monitor.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\server.js:154:12)\n    at Monitor.emit (node:events:531:35)\n    at Monitor.emit (node:domain:488:12)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\monitor.js:292:13\n    at callback (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\connection\\connect.js:75:5)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\connection\\connect.js:165:7\n    at MessageStream.messageHandler (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\cmap\\connection.js:308:5)\n    at MessageStream.emit (node:events:519:28)\n    at MessageStream.emit (node:domain:488:12)\n    at processIncomingData (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at writeOrBuffer (node:internal/streams/writable:570:12)\n    at _write (node:internal/streams/writable:499:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:508:10)\n    at Socket.ondata (node:internal/streams/readable:1007:22)\n    at Socket.emit (node:events:519:28)\n    at Socket.emit (node:domain:488:12)\n    at addChunk (node:internal/streams/readable:559:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)\n    at Socket.Readable.push (node:internal/streams/readable:390:5)\n    at TCP.onStreamRead (node:internal/stream_base_commons:191:23)","timestamp":"2024-10-16T10:00:11.134Z","trace":[{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\error.js","function":"Function.create","line":59,"method":"create","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\operations\\db_ops.js","function":"validateDatabaseName","line":351,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\db.js","function":"new Db","line":193,"method":null,"native":false},{"column":14,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\mongo_client.js","function":"MongoClient.db","line":379,"method":"db","native":false},{"column":58,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongoose\\lib\\connection.js","function":"_setClient","line":883,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongoose\\lib\\connection.js","function":null,"line":841,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\utils.js","function":null,"line":704,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\mongo_client.js","function":null,"line":286,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\operations\\connect.js","function":"connectCallback","line":367,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\operations\\connect.js","function":null,"line":557,"method":null,"native":false},{"column":43,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js","function":"Object.connectHandler [as callback]","line":298,"method":"connectHandler [as callback]","native":false},{"column":21,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js","function":"processWaitQueue","line":1066,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js","function":"NativeTopology.serverUpdateHandler","line":571,"method":"serverUpdateHandler","native":false},{"column":28,"file":"node:events","function":"Server.emit","line":519,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"Server.emit","line":488,"method":"emit","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\server.js","function":null,"line":154,"method":null,"native":false},{"column":35,"file":"node:events","function":"Monitor.emit","line":531,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"Monitor.emit","line":488,"method":"emit","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\sdam\\monitor.js","function":null,"line":292,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\connection\\connect.js","function":"callback","line":75,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\core\\connection\\connect.js","function":null,"line":165,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\cmap\\connection.js","function":"MessageStream.messageHandler","line":308,"method":"messageHandler","native":false},{"column":28,"file":"node:events","function":"MessageStream.emit","line":519,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"MessageStream.emit","line":488,"method":"emit","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\cmap\\message_stream.js","function":"processIncomingData","line":144,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\mongodb\\lib\\cmap\\message_stream.js","function":"MessageStream._write","line":42,"method":"_write","native":false},{"column":12,"file":"node:internal/streams/writable","function":"writeOrBuffer","line":570,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"_write","line":499,"method":null,"native":false},{"column":10,"file":"node:internal/streams/writable","function":"MessageStream.Writable.write","line":508,"method":"write","native":false},{"column":22,"file":"node:internal/streams/readable","function":"Socket.ondata","line":1007,"method":"ondata","native":false},{"column":28,"file":"node:events","function":"Socket.emit","line":519,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"Socket.emit","line":488,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"addChunk","line":559,"method":null,"native":false},{"column":3,"file":"node:internal/streams/readable","function":"readableAddChunkPushByteMode","line":510,"method":null,"native":false},{"column":5,"file":"node:internal/streams/readable","function":"Socket.Readable.push","line":390,"method":"push","native":false},{"column":23,"file":"node:internal/stream_base_commons","function":"TCP.onStreamRead","line":191,"method":"onStreamRead","native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:01:04.697Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:01:04.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:05:13.996Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:05:14.025Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:05:22.996Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:05:23.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:19:22.576Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:19:22.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:20:26.742Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:20:26.770Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:20:41.827Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:20:41.848Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:20:47.682Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:20:47.701Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:20:55.819Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:20:55.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:21:08.964Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:21:08.984Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:21:43.079Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:21:43.097Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:21:47.200Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:21:47.228Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:21:58.243Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:21:58.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:22:03.175Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:22:03.196Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:22:58.458Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:22:58.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:23:02.578Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:23:02.599Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:23:09.230Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:23:09.246Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:23:15.107Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:23:15.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:23:26.681Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:23:26.710Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:23:33.856Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:23:33.874Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:26:26.901Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:26:26.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:28:46.973Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:28:46.999Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:28:50.121Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:28:50.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:28:52.699Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:28:52.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:28:57.518Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:28:57.543Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:30:06.047Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:30:06.076Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:30:16.328Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:30:16.359Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:30:20.023Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:30:20.055Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:30:35.525Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:30:35.552Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:31:34.886Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:31:34.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:32:16.034Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:32:16.058Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:34:15.623Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:34:15.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:34:24.617Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:34:24.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:35:30.000Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:35:30.027Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:35:33.686Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:35:33.708Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:35:49.910Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:35:49.934Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:40:54.950Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:40:54.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:40:58.049Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:40:58.076Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/create 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-10-16T10:42:06.936Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:45:38.933Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:45:38.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:45:54.380Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:45:54.394Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:45:59.263Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:45:59.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:48:27.545Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:48:27.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:50:05.803Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:50:05.818Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:51:33.225Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:51:33.251Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:53:59.327Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:53:59.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:54:03.341Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:54:03.360Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:54:06.231Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:54:06.245Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:54:11.262Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:54:11.280Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:54:14.299Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:54:14.312Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:54:45.430Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:54:45.444Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:54:49.686Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:54:49.701Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:55:12.239Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:55:12.250Z"}
+error: 
+    status - 500 
+    message - TypeError: Invalid `path`. Must be either string or array
+    at Object.exports.get (D:\BackendWorkspace\nodeProject\node_modules\mpath\lib\index.js:59:11)
+    at Object.exports.getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\utils.js:598:16)
+    at model.Document.$__getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:1593:16)
+    at generateVersionError (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:443:23)
+    at model.Model.save (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:500:28)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3171:16
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:7:27)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.newUser (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:5:21)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:36)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:5:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T10:56:14.100Z"}
+error: 
+    status - 500 
+    message - TypeError: Invalid `path`. Must be either string or array
+    at Object.exports.get (D:\BackendWorkspace\nodeProject\node_modules\mpath\lib\index.js:59:11)
+    at Object.exports.getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\utils.js:598:16)
+    at model.Document.$__getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:1593:16)
+    at generateVersionError (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:443:23)
+    at model.Model.save (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:500:28)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3171:16
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:7:27)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.newUser (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:5:21)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:36)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:5:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T10:56:37.344Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:58:46.828Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:58:46.841Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T10:59:31.098Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T10:59:31.111Z"}
+error: 
+    status - 500 
+    message - TypeError: Invalid `path`. Must be either string or array
+    at Object.exports.get (D:\BackendWorkspace\nodeProject\node_modules\mpath\lib\index.js:59:11)
+    at Object.exports.getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\utils.js:598:16)
+    at model.Document.$__getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:1593:16)
+    at generateVersionError (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:443:23)
+    at model.Model.save (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:500:28)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3171:16
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:7:27)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.newUser (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:5:21)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:36)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:5:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T10:59:45.171Z"}
+error: 
+    status - 500 
+    message - TypeError: Invalid `path`. Must be either string or array
+    at Object.exports.get (D:\BackendWorkspace\nodeProject\node_modules\mpath\lib\index.js:59:11)
+    at Object.exports.getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\utils.js:598:16)
+    at model.Document.$__getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:1593:16)
+    at generateVersionError (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:443:23)
+    at model.Model.save (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:500:28)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3171:16
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:7:27)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.newUser (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:5:21)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:36)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:5:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T11:02:29.472Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:03:53.784Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:03:53.796Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:03:56.143Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:03:56.155Z"}
+error: 
+    status - 500 
+    message - TypeError: Invalid `path`. Must be either string or array
+    at Object.exports.get (D:\BackendWorkspace\nodeProject\node_modules\mpath\lib\index.js:59:11)
+    at Object.exports.getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\utils.js:598:16)
+    at model.Document.$__getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:1593:16)
+    at generateVersionError (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:443:23)
+    at model.Model.save (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:500:28)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3171:16
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:7:27)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.newUser (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:5:21)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:36)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:5:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T11:04:06.893Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:06:33.527Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:06:33.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:06:39.056Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:06:39.068Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:06:42.010Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:06:42.027Z"}
+error: 
+    status - 500 
+    message - TypeError: Invalid `path`. Must be either string or array
+    at Object.exports.get (D:\BackendWorkspace\nodeProject\node_modules\mpath\lib\index.js:59:11)
+    at Object.exports.getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\utils.js:598:16)
+    at model.Document.$__getValue (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\document.js:1593:16)
+    at generateVersionError (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:443:23)
+    at model.Model.save (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:500:28)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3171:16
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3201:7
+    at Array.forEach (<anonymous>)
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3200:15
+    at D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (D:\BackendWorkspace\nodeProject\node_modules\mongoose\lib\model.js:3135:23)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:7:27)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.newUser (D:\BackendWorkspace\nodeProject\src\services\/user.service.js:5:21)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:36)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:5:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-16T11:06:45.255Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:08:24.453Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:08:24.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:11:16.043Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:11:16.055Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:12:03.356Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:12:03.369Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:12:27.088Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:12:27.101Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:12:37.375Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:12:37.386Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:14:04.892Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:14:04.904Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:14:22.801Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:14:22.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:15:02.510Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:15:02.522Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:16:50.039Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:16:50.051Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:17:16.402Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:17:16.416Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:17:19.963Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:17:19.975Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:17:23.064Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:17:23.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:19:30.704Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:19:30.716Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:19:41.164Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:19:41.176Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:21:56.444Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:21:56.455Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:22:00.885Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:22:00.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:22:04.001Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:22:04.018Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:22:10.685Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:22:10.707Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:22:16.497Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:22:16.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:22:42.001Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:22:42.014Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:12.739Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:12.755Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:15.119Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:15.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:21.813Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:21.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:30.527Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:30.547Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:34.527Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:34.540Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:48.054Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:48.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:23:50.464Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:23:50.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:24:04.465Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:24:04.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:24:32.164Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:24:32.178Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:25:04.246Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:25:04.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:25:23.174Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:25:23.187Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:25:59.974Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:25:59.986Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:26:11.521Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:26:11.533Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:28:13.073Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:28:13.084Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:28:35.838Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:28:35.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:28:41.173Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:28:41.187Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:28:44.709Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:28:44.724Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:28:49.042Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:28:49.054Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:31:08.281Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:31:08.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:31:15.511Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:31:15.523Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:32:18.927Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:32:18.939Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:34:04.952Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:34:04.963Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:34:09.038Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:34:09.050Z"}
+error: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError: The argument 'id' must be a non-empty string. Received ''
+    at Module.require (node:internal/modules/cjs/loader:1228:11)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\config\/database.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\/index.js:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.runMain (node:internal/modules/run_main:174:12)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Wed Oct 16 2024 17:04:48 GMT+0530 (India Standard Time)","error":{"code":"ERR_INVALID_ARG_VALUE"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":536039.093},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18295175,"external":21263314,"heapTotal":77889536,"heapUsed":51880432,"rss":116150272},"pid":9564,"uid":null,"version":"v20.16.0"},"stack":"TypeError: The argument 'id' must be a non-empty string. Received ''\n    at Module.require (node:internal/modules/cjs/loader:1228:11)\n    at require (node:internal/modules/helpers:179:18)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\config\\/database.js:3:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Module.require (node:internal/modules/cjs/loader:1233:19)\n    at require (node:internal/modules/helpers:179:18)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:9:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-16T11:34:48.915Z","trace":[{"column":11,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1228,"method":"require","native":false},{"column":18,"file":"node:internal/modules/helpers","function":"require","line":179,"method":null,"native":false},{"column":1,"file":"D:\\BackendWorkspace\\nodeProject\\src\\config\\/database.js","function":null,"line":3,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1233,"method":"require","native":false},{"column":18,"file":"node:internal/modules/helpers","function":"require","line":179,"method":null,"native":false},{"column":1,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:34:54.198Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:34:54.222Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:35:04.602Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:35:04.621Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:35:07.432Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:35:07.451Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:35:10.764Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:35:10.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:37:24.986Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:37:25.000Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:37:45.305Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:37:45.322Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:37:50.953Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:37:50.968Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:37:52.673Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:37:52.689Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:37:57.789Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:37:57.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:38:06.023Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:38:06.046Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:38:16.143Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:38:16.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:38:21.824Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:38:21.853Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:38:25.002Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:38:25.026Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:40:11.442Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:40:11.456Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:40:27.686Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:40:27.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:41:02.543Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:41:02.557Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:41:32.296Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:41:32.311Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:41:34.136Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:41:34.148Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:41:45.165Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:41:45.180Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:41:56.577Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:41:56.591Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T11:41:59.691Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T11:41:59.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:05:36.162Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:05:36.184Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:27:36.118Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:27:36.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:29:12.696Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:29:12.719Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:29:16.823Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:29:16.845Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:29:33.922Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:29:33.947Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:30:29.849Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:30:29.876Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:33:04.118Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:33:04.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:33:07.358Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:33:07.379Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:33:24.878Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:33:24.899Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:37:40.439Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:37:40.460Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:42:59.837Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:42:59.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:43:13.050Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:43:13.081Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-16T17:47:11.646Z"}
+info: Connected to the database. {"timestamp":"2024-10-16T17:47:11.674Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:28:39.231Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:28:39.255Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:46:50.665Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:46:50.687Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:47:42.468Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:47:42.481Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:48:50.253Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:48:50.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:48:52.306Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:48:52.320Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:49:11.529Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:49:11.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:50:19.450Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:50:19.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:50:41.542Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:50:41.563Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:50:53.293Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:50:53.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:51:06.691Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:51:06.711Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:51:20.012Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:51:20.040Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:51:22.772Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:51:22.796Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:51:26.914Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:51:26.936Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:53:52.396Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:53:52.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:54:33.575Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:54:33.590Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:03.222Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:03.234Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:05.211Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:05.225Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:09.503Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:09.516Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:12.639Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:12.661Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:17.231Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:17.244Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:20.401Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:20.425Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:26.888Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:26.901Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T06:55:31.736Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T06:55:31.750Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:42:48.836Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:42:48.869Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:43:03.000Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:43:03.043Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:43:06.104Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:43:06.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:49:04.644Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:49:04.677Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:49:08.605Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:49:08.640Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:49:21.813Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:49:21.837Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:54:31.099Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:54:31.120Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:59:32.675Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:59:32.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T07:59:40.425Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:59:40.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T08:00:14.735Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T08:00:14.763Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T08:00:20.029Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T08:00:20.051Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T08:00:27.664Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T08:00:27.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:19:02.417Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:19:02.437Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:27:25.311Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:27:25.344Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:27:32.744Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:27:32.767Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:27:57.175Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:27:57.201Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:28:46.473Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:28:46.498Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:28:49.363Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:28:49.387Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:28:57.724Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:28:57.746Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:29:02.397Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:29:02.423Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:29:07.857Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:29:07.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:29:40.648Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:29:40.671Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:32:19.113Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:32:19.135Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:36:09.835Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:36:09.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:36:16.182Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:36:16.205Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:40:34.925Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:40:34.955Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:40:41.459Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:40:41.488Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:48:09.262Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:48:09.286Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:48:16.463Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:48:16.496Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:48:44.424Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:48:44.453Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:49:29.107Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:49:29.148Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:50:05.632Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:50:05.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:50:45.932Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:50:45.957Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:50:52.988Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:50:53.014Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:23.593Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:23.616Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:28.143Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:28.170Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:32.102Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:32.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:36.665Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:36.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:42.424Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:42.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:46.278Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:46.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:50.622Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:50.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:51:53.585Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:51:53.616Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:52:00.664Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:52:00.691Z"}
