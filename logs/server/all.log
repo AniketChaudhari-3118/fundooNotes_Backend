@@ -1052,3 +1052,1197 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T1
 info: Connected to the database. {"timestamp":"2024-10-17T17:51:53.616Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-17T17:52:00.664Z"}
 info: Connected to the database. {"timestamp":"2024-10-17T17:52:00.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:48:00.443Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:48:00.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:53:34.260Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:53:34.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:57:14.410Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:57:14.426Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:57:54.242Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:57:54.255Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:58:47.257Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:58:47.279Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:58:53.413Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:58:53.445Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:59:04.724Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:59:04.755Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:59:11.750Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:59:11.778Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:59:30.762Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:59:30.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:59:44.440Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:59:44.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:59:53.583Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:59:53.615Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T05:59:59.844Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:59:59.877Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:12.112Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:00:12.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:26.288Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:29.486Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:00:29.519Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:35.247Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:00:35.279Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:43.639Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:00:43.666Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:52.134Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:00:52.172Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:00:58.302Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:00:58.333Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:02:14.068Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:02:14.082Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:02:16.078Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:02:16.091Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:03:06.506Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:03:06.541Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:03:11.013Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:03:11.047Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:03:20.645Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:03:20.679Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:03:46.265Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:03:46.284Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:04:13.193Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:04:13.226Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:05:55.594Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:05:55.610Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:06:02.136Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:06:02.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:07:56.318Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:07:56.331Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:08:04.968Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:08:05.012Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:11:12.285Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:11:12.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:13:27.055Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:13:27.086Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:16:02.714Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:16:02.741Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:16:47.631Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:16:47.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:16:50.817Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:16:50.832Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:17:44.546Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:17:44.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:17:50.957Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:17:50.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:18:01.426Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:18:01.458Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:18:08.716Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:18:08.753Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:18:14.232Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:18:14.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:18:40.081Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:18:40.120Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:18:52.486Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:18:52.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:18:58.081Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:18:58.108Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:19:06.503Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:19:06.541Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:20:45.371Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:20:45.406Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:20:55.597Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:20:55.625Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:20:58.605Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:20:58.630Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:21:10.708Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:21:10.725Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:21:18.776Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:21:18.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:22:09.107Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:22:09.134Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:22:14.467Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:22:14.483Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:22:29.568Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:22:29.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:22:33.215Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:22:33.243Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:22:37.120Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:22:37.156Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:23:04.655Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:23:04.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:24:00.358Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:24:00.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:24:52.004Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:24:52.016Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:24:56.625Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:24:56.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:24:58.437Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:24:58.454Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:25:39.317Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:25:39.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:28:54.031Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:28:54.057Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:29:01.293Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:29:01.327Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:31:02.030Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:31:02.052Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:31:20.365Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:31:20.386Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:31:41.873Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:31:41.901Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:32:44.996Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:32:45.013Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:32:50.726Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:32:50.743Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:34:19.690Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:34:19.708Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:34:24.794Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:34:24.817Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:35:32.806Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:35:32.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:35:42.931Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:35:42.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:35:49.628Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:35:49.653Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:36:00.189Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:36:00.220Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:38:27.746Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:38:27.758Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:39:23.007Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:39:23.024Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:39:32.067Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:39:32.083Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:40:10.336Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:40:10.358Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:40:14.552Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:40:14.567Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T06:41:08.455Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:41:08.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T07:04:06.569Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T07:04:06.588Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:01:32.878Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:01:32.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:01:41.303Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:01:41.333Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\BackendWorkspace\nodeProject\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.runMain (node:internal/modules/run_main:174:12)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Fri Oct 18 2024 14:31:48 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5023.484},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18286983,"external":21274309,"heapTotal":79724544,"heapUsed":51345000,"rss":119955456},"pid":15248,"uid":null,"version":"v20.16.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1904:16)\n    at listenInCluster (node:net:1961:12)\n    at Server.listen (node:net:2063:7)\n    at Function.listen (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-18T09:01:48.508Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1904,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1961,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2063,"method":"listen","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2024-10-18T09:01:48.551Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\BackendWorkspace\nodeProject\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.runMain (node:internal/modules/run_main:174:12)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Fri Oct 18 2024 14:32:39 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5074.843},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18286983,"external":21274309,"heapTotal":80510976,"heapUsed":51334728,"rss":120889344},"pid":16808,"uid":null,"version":"v20.16.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1904:16)\n    at listenInCluster (node:net:1961:12)\n    at Server.listen (node:net:2063:7)\n    at Function.listen (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-18T09:02:39.870Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1904,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1961,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2063,"method":"listen","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:04:49.620Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:04:49.660Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:07:53.921Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:07:53.942Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:08:00.356Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:08:00.389Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:12:48.679Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:13:02.191Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:13:02.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:13:14.433Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:13:14.453Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:13:17.143Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:17:03.838Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:17:03.865Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:17:17.734Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:17:17.765Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:18:17.988Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:18:18.012Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:18:20.866Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:18:20.895Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:18:25.258Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:18:25.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:19:50.596Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:19:50.617Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:20:01.601Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:20:01.632Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:20:07.167Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:20:07.200Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:20:42.618Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:20:42.638Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:20:52.467Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:20:54.365Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:22:47.810Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:22:47.832Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:22:55.167Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:22:55.195Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:22:59.464Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:23:05.319Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:25:24.538Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:25:24.571Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:25:26.639Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:25:28.095Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:26:34.621Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:26:34.646Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:26:52.327Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:26:52.349Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:27:27.624Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:27:27.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:27:30.999Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:27:31.021Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:27:41.976Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:27:42.025Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:26)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:27:47.786Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:28:02.112Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:28:02.140Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:33:02.907Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:33:23.403Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:33:23.438Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:33:27.885Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:33:40.389Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:33:40.415Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:34:02.471Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:34:02.491Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:34:07.270Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:34:07.294Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:34:16.072Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:34:16.093Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:34:24.533Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:34:24.563Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:34:36.187Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:34:36.217Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T09:34:39.787Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T09:34:39.809Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:34:04.229Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:34:04.258Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T10:35:30.022Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:36:30.395Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:36:30.419Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:38:10.087Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:38:10.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:38:48.437Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:38:48.461Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:39:01.472Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:39:01.492Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:39:11.139Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:39:11.163Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:39:15.530Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:39:15.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:39:19.830Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:39:19.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:39:43.486Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:39:43.508Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:40:34.581Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:40:34.604Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:40:38.648Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:40:38.673Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:40:49.696Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:40:49.724Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:41:06.127Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:41:06.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:41:20.528Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:41:20.550Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:41:30.956Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:41:30.981Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:41:53.907Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:41:53.930Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:43:38.311Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:43:38.335Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:43:44.772Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:43:44.795Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:43:50.471Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:43:50.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:44:34.002Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:44:34.029Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:44:39.435Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:44:39.458Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:46:14.628Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:46:14.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:46:21.535Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:46:21.556Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:46:33.423Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:46:33.444Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:46:37.418Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:46:37.444Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:46:41.189Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:46:41.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:48:56.432Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:48:56.455Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:50:54.724Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:50:54.750Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:50:57.869Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:50:57.891Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T10:51:30.426Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:51:30.448Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:00:25.432Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:00:25.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:00:47.562Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:00:47.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:00:58.259Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:00:58.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:01:03.459Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:01:03.482Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:01:08.192Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:01:08.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:01:14.668Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:01:14.689Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:01:30.974Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:01:30.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:03:05.496Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:03:05.518Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:03:50.851Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:03:50.871Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:03:57.442Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:03:57.462Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:04:01.088Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:04:01.124Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:04:07.041Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:04:07.060Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:06:08.405Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:06:08.427Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:06:12.944Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:06:12.966Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:06:18.913Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:06:18.933Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:06:28.081Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:06:28.104Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:08:52.046Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:08:52.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:09:53.301Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:09:53.322Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:11:04.229Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:11:04.254Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:11:23.680Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:11:23.707Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:11:32.734Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:11:32.759Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:11:44.594Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:11:44.615Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:11:47.280Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:11:47.302Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:11:56.486Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:11:56.508Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:12:00.895Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:12:00.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:12:09.790Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:12:09.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:12:17.494Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:12:17.513Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:12:21.775Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:12:21.791Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:12:34.642Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:12:34.665Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:12:39.036Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:12:39.073Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:13:04.101Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:13:04.121Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:13:14.997Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:13:15.022Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T11:14:25.856Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:15:37.789Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:15:37.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:15:40.696Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:15:40.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:16:29.115Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:16:29.135Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T11:16:31.401Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:17:20.923Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:17:20.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:19:51.454Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:19:51.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:20:15.884Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:20:15.907Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:20:27.137Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:20:27.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:20:33.959Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:20:33.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:20:39.607Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:20:39.633Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:20:44.746Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:20:44.781Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:20:56.130Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:20:56.151Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:21:28.583Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:21:28.599Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:21:31.575Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:21:31.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:22:08.329Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:22:08.349Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:22:30.343Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:22:30.377Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:23:02.701Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:23:02.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:23:20.279Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:23:20.301Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:23:29.474Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:23:29.493Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:23:31.916Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:23:31.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:23:35.695Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:23:35.726Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:23:40.102Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:23:40.134Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:28:09.658Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:28:09.677Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-10-18T11:28:13.013Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T11:28:13.030Z"}

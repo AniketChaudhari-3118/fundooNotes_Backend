@@ -13,14 +13,10 @@ const noteSchema = new Schema(
             type: String,
             required: true
         },
-        // userId: {
-        //     type: Schema.Types.ObjectId,
-        //     ref: 'User', required: true
-        // },  // Reference to the user
     },
     {
-        timestamps: true,
-        versionKey: true
+        timestamps: true
+        // versionKey: true
     }
 );
 

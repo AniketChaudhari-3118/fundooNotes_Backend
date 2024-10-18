@@ -1,13 +1,14 @@
+import { log } from 'winston';
 import Note from '../models/notes.model'
 
 
 //create new note
-export const createNote = async (title, description) => {
+export const newNote = async (body) => {
     try {
-        const note = await Note.create({ title, description });
+        const note = await Note.create(body);
         return note;
     } catch (error) {
-        throw new Error(error.message);
+        console.log(error);
     }
 };
 
@@ -23,9 +24,9 @@ export const getUserNotes = async (userId) => {
 
 
 // Update a user's note
-export const updateNote = async (noteId, userId, updateData) => {
+export const updateNote = async (userId, updateData) => {
     try {
-        return await Note.findOneAndUpdate({ _id: noteId, userId }, updateData, { new: true });
+        return await Note.findOneAndUpdate({ userId }, updateData, { new: true });
     } catch (error) {
         throw new Error(error.message);
     }
@@ -33,9 +34,9 @@ export const updateNote = async (noteId, userId, updateData) => {
 
 
 // Delete a note by noteId and userId
-export const deleteNote = async (noteId, userId) => {
+export const deleteNote = async (userId) => {
     try {
-        return await Note.findOneAndDelete({ _id: noteId, userId });
+        return await Note.findOneAndDelete({ userId });
     } catch (error) {
         throw new Error(error.message);
     }

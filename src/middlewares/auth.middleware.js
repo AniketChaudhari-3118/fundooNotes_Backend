@@ -1,5 +1,8 @@
 import HttpStatus from 'http-status-codes';
 import jwt from 'jsonwebtoken';
+import dotenv from 'dotenv';
+dotenv.config();
+
 
 /**
  * Middleware to authenticate if user has a valid Authorization token
@@ -19,7 +22,8 @@ export const userAuth = async (req, res, next) => {
       };
     bearerToken = bearerToken.split(' ')[1];
 
-    const { user } = await jwt.verify(bearerToken, 'your-secret-key');
+    const { user } = await jwt.verify(bearerToken, process.env.SECRET_KEY);
+    
     res.locals.user = user;
     res.locals.token = bearerToken;
     next();
@@ -30,23 +34,23 @@ export const userAuth = async (req, res, next) => {
 
 export const authenticate = (req, res, next) => {
   const token = req.header('Authorization');
-  
+
   if (!token) {
-      return res.status(400).json({ 
-          status: 400, 
-          message: 'Authorization token is required' 
-      });
+    return res.status(400).json({
+      status: 400,
+      message: 'Authorization token is required'
+    });
   }
 
   try {
-      const decoded = jwt.verify(token, process.env.JWT_SECRET);
-      req.user = decoded; // Attach the decoded user to the request
-      
-      next();
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    req.user = decoded; // Attach the decoded user to the request
+
+    next();
   } catch (error) {
-      return res.status(401).json({ 
-          status: 401, 
-          message: 'Invalid authorization token' 
-      });
+    return res.status(401).json({
+      status: 401,
+      message: 'Invalid authorization token'
+    });
   }
 };

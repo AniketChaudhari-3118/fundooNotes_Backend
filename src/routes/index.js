@@ -1,8 +1,8 @@
 import express from 'express';
 const router = express.Router();
 
-import userRoute from './user.route';
-import notesRoute from './notes.route'
+import userRoute from './user.route.js';
+import notesRoute from './notes.route.js'
 /**
  * Function contains Application routes
  *

@@ -555,3 +555,801 @@ TypeError: The argument 'id' must be a non-empty string. Received ''
     at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
     at node:internal/main/run_main_module:28:49 {"date":"Wed Oct 16 2024 17:04:48 GMT+0530 (India Standard Time)","error":{"code":"ERR_INVALID_ARG_VALUE"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":536039.093},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18295175,"external":21263314,"heapTotal":77889536,"heapUsed":51880432,"rss":116150272},"pid":9564,"uid":null,"version":"v20.16.0"},"stack":"TypeError: The argument 'id' must be a non-empty string. Received ''\n    at Module.require (node:internal/modules/cjs/loader:1228:11)\n    at require (node:internal/modules/helpers:179:18)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\config\\/database.js:3:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Module.require (node:internal/modules/cjs/loader:1233:19)\n    at require (node:internal/modules/helpers:179:18)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:9:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-16T11:34:48.915Z","trace":[{"column":11,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1228,"method":"require","native":false},{"column":18,"file":"node:internal/modules/helpers","function":"require","line":179,"method":null,"native":false},{"column":1,"file":"D:\\BackendWorkspace\\nodeProject\\src\\config\\/database.js","function":null,"line":3,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1233,"method":"require","native":false},{"column":18,"file":"node:internal/modules/helpers","function":"require","line":179,"method":null,"native":false},{"column":1,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\BackendWorkspace\nodeProject\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.runMain (node:internal/modules/run_main:174:12)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Fri Oct 18 2024 14:31:48 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5023.484},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18286983,"external":21274309,"heapTotal":79724544,"heapUsed":51345000,"rss":119955456},"pid":15248,"uid":null,"version":"v20.16.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1904:16)\n    at listenInCluster (node:net:1961:12)\n    at Server.listen (node:net:2063:7)\n    at Function.listen (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-18T09:01:48.508Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1904,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1961,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2063,"method":"listen","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (D:\BackendWorkspace\nodeProject\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._compile (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Object.newLoader [as .js] (D:\BackendWorkspace\nodeProject\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.runMain (node:internal/modules/run_main:174:12)
+    at Object.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Fri Oct 18 2024 14:32:39 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":5074.843},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18286983,"external":21274309,"heapTotal":80510976,"heapUsed":51334728,"rss":120889344},"pid":16808,"uid":null,"version":"v20.16.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1904:16)\n    at listenInCluster (node:net:1961:12)\n    at Server.listen (node:net:2063:7)\n    at Function.listen (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-18T09:02:39.870Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1904,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1961,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2063,"method":"listen","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:12:48.679Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:13:17.143Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:20:52.467Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:20:54.365Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:22:59.464Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:23:05.319Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:25:26.639Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:25:28.095Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:26)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:27:47.786Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:33:02.907Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T09:33:27.885Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T10:35:30.022Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T11:14:25.856Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-18T11:16:31.401Z"}

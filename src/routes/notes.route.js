@@ -1,19 +1,19 @@
 import express from 'express';
-import * as noteController from '../controllers/notes.controller'
-import { authenticate, userAuth, authenticateToken } from '../middlewares/auth.middleware';
+import * as noteController from '../controllers/notes.controller.js'
+import { authenticate, userAuth } from '../middlewares/auth.middleware';
 
-const router = express.Router();
+const noteRoute = express.Router();
 
 // Create a new note
-router.post('/create', noteController.createNote);
+noteRoute.post('/create', noteController.createNote);
 
 // Get all notes for the logged-in user
-router.get('/fetch', noteController.getUserNotes);
+noteRoute.get('/fetch', noteController.getUserNotes);
 
 // Update a note by ID
-router.put('/update/:noteId', noteController.updateNote);
+noteRoute.put('/update/:noteId', noteController.updateNote);
 
 // Delete a note by ID
-router.delete('/delete/:noteId', noteController.deleteNote);
+noteRoute.delete('/delete/:noteId', noteController.deleteNote);
 
-export default router;
+export default noteRoute;
