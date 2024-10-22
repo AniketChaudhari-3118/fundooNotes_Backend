@@ -4,6 +4,9 @@ dotenv.config();
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
+import swaggerUi from 'swagger-ui-express';
+import { swaggerSpec } from './swagger.js'; 
+
 
 import routes from './routes';
 import database from './config/database';
@@ -26,6 +29,7 @@ app.use(helmet());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(morgan('combined', { stream: logStream }));
+app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec))
 
 database();
 
