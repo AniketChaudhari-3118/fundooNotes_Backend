@@ -20,7 +20,7 @@ const swaggerOptions = {
             }
         ],
     },
-    apis: ["./src/routes/*.js"], // Point this to the correct files where you document your routes
+    apis: ["./src/routes/*.js"], // Point this to the correct files where you document your route
 
 }
 

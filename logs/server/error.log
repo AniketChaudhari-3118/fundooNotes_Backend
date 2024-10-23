@@ -1370,3 +1370,332 @@ ReferenceError: swagger is not defined
     at Function.Module._load (node:internal/modules/cjs/loader:1024:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
     at node:internal/main/run_main_module:28:49 {"date":"Mon Oct 21 2024 15:37:00 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":263037.25},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18278791,"external":21255122,"heapTotal":81297408,"heapUsed":45962480,"rss":120705024},"pid":19620,"uid":null,"version":"v20.16.0"},"stack":"ReferenceError: swagger is not defined\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\src\\/index.js:31:22)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._compile (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Object.newLoader [as .js] (D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.runMain (node:internal/modules/run_main:174:12)\n    at Object.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-21T10:07:00.031Z","trace":[{"column":22,"file":"D:\\BackendWorkspace\\nodeProject\\src\\/index.js","function":null,"line":31,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":24,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":174,"method":"runMain","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1358,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1416,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1208,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1024,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":174,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - TokenExpiredError: jwt expired
+    at D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:25:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:15:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-23T06:41:19.337Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/login 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-10-23T06:42:07.115Z"}
+error: 
+    status - 500 
+    message - TypeError: _logger.default.info is not a function
+    at D:\BackendWorkspace\nodeProject\src\routes\/user.route.js:11:12
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-23T06:58:30.662Z"}
+error: uncaughtException: logger is not defined
+ReferenceError: logger is not defined
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:7:5)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:6:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {"date":"Wed Oct 23 2024 12:29:57 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":424616.937},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18297288,"external":21297126,"heapTotal":86478848,"heapUsed":59791136,"rss":125411328},"pid":11800,"uid":null,"version":"v20.16.0"},"stack":"ReferenceError: logger is not defined\n    at _callee$ (D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js:7:5)\n    at tryCatch (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:17)\n    at _next (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:17:9)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:7\n    at new Promise (<anonymous>)\n    at apply (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:14:12)\n    at registerUser (D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js:6:26)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at logger (D:\\BackendWorkspace\\nodeProject\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\body-parser\\lib\\read.js:137:5\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js:238:16)\n    at done (D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at IncomingMessage.emit (node:domain:488:12)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2024-10-23T06:59:57.587Z","trace":[{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js","function":"_callee$","line":7,"method":null,"native":false},{"column":16,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":45,"method":null,"native":false},{"column":17,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":133,"method":null,"native":false},{"column":21,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":74,"method":"next","native":false},{"column":17,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":17,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":22,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"apply","line":14,"method":null,"native":false},{"column":26,"file":"D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js","function":"registerUser","line":6,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js","function":"next","line":149,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js","function":"Route.dispatch","line":119,"method":"dispatch","native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":15,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":284,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\morgan\\index.js","function":"logger","line":144,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\body-parser\\lib\\read.js","function":null,"line":137,"method":null,"native":false},{"column":9,"file":"node:async_hooks","function":"AsyncResource.runInAsyncScope","line":206,"method":"runInAsyncScope","native":false},{"column":16,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js","function":"invokeCallback","line":238,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js","function":"done","line":227,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js","function":"IncomingMessage.onEnd","line":287,"method":"onEnd","native":false},{"column":28,"file":"node:events","function":"IncomingMessage.emit","line":519,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"IncomingMessage.emit","line":488,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"endReadableNT","line":1696,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":82,"method":null,"native":false}]}
+error: uncaughtException: _logger.default.info is not a function
+TypeError: _logger.default.info is not a function
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:8:12)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at registerUser (D:\BackendWorkspace\nodeProject\src\controllers\/user.controller.js:7:26)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {"date":"Wed Oct 23 2024 12:30:46 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":424665.796},"process":{"argv":["node","D:\\BackendWorkspace\\nodeProject\\src\\index.js"],"cwd":"D:\\BackendWorkspace\\nodeProject","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18289096,"external":21288934,"heapTotal":82345984,"heapUsed":47966240,"rss":123719680},"pid":13604,"uid":null,"version":"v20.16.0"},"stack":"TypeError: _logger.default.info is not a function\n    at _callee$ (D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js:8:12)\n    at tryCatch (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:17)\n    at _next (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:17:9)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:7\n    at new Promise (<anonymous>)\n    at apply (D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:14:12)\n    at registerUser (D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js:7:26)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at logger (D:\\BackendWorkspace\\nodeProject\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handle [as handle_request] (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at D:\\BackendWorkspace\\nodeProject\\node_modules\\body-parser\\lib\\read.js:137:5\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js:238:16)\n    at done (D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at IncomingMessage.emit (node:domain:488:12)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2024-10-23T07:00:46.452Z","trace":[{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js","function":"_callee$","line":8,"method":null,"native":false},{"column":16,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":45,"method":null,"native":false},{"column":17,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":133,"method":null,"native":false},{"column":21,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":74,"method":"next","native":false},{"column":17,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":17,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":22,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"apply","line":14,"method":null,"native":false},{"column":26,"file":"D:\\BackendWorkspace\\nodeProject\\src\\controllers\\/user.controller.js","function":"registerUser","line":7,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js","function":"next","line":149,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\route.js","function":"Route.dispatch","line":119,"method":"dispatch","native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":15,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":284,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\morgan\\index.js","function":"logger","line":144,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\body-parser\\lib\\read.js","function":null,"line":137,"method":null,"native":false},{"column":9,"file":"node:async_hooks","function":"AsyncResource.runInAsyncScope","line":206,"method":"runInAsyncScope","native":false},{"column":16,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js","function":"invokeCallback","line":238,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js","function":"done","line":227,"method":null,"native":false},{"column":7,"file":"D:\\BackendWorkspace\\nodeProject\\node_modules\\raw-body\\index.js","function":"IncomingMessage.onEnd","line":287,"method":"onEnd","native":false},{"column":28,"file":"node:events","function":"IncomingMessage.emit","line":519,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"IncomingMessage.emit","line":488,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"endReadableNT","line":1696,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":82,"method":null,"native":false}]}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/login 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-10-23T07:03:28.105Z"}
+error: 
+    status - 500 
+    message - TokenExpiredError: jwt expired
+    at D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:25:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:15:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-23T07:03:38.367Z"}
+error: 
+    status - 500 
+    message - TokenExpiredError: jwt expired
+    at D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (D:\BackendWorkspace\nodeProject\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:25:32)
+    at tryCatch (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\BackendWorkspace\nodeProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\BackendWorkspace\nodeProject\src\middlewares\/auth.middleware.js:15:22)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\BackendWorkspace\nodeProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:328:13)
+    at D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\BackendWorkspace\nodeProject\node_modules\express\lib\router\index.js:280:10)
+    at D:\BackendWorkspace\nodeProject\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:238:16)
+    at done (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\BackendWorkspace\nodeProject\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-23T07:06:49.876Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/login 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-10-23T07:06:55.833Z"}

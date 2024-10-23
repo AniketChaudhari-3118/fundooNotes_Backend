@@ -4,14 +4,23 @@ import { authenticate, authenticateToken, userAuth } from '../middlewares/auth.m
 import { user } from '../models/user.model.js';
 
 
+
 const router = express.Router();
 
-router.post('/', userController.registerUser);
+router.post('/register', userController.registerUser);
+router.post('/login', userController.loginUser);
 
 /**
  * @swagger
- * /register:
- *     post:
+ * 
+ * tags:
+ *   - name: User
+ *     description: "Tag that contains all APIs for user."
+ *   - name: Note
+ *     description: "Tag that contains all APIs for note."
+ * 
+ * api/v1/user/register:
+ *   post:
  *     summary: Register a user
  *     description: This API registers a user with email and password.
  *     tags:
@@ -31,7 +40,7 @@ router.post('/', userController.registerUser);
  *                 example: secret
  *     responses:
  *       200:
- *         description: Successful Register
+ *         description: Successful registration
  *         content:
  *           application/json:
  *             schema:
@@ -42,7 +51,8 @@ router.post('/', userController.registerUser);
  *                   example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
  *       401:
  *         description: Invalid email or password
- * /login:
+ * 
+ * api/v1/user/login:
  *   post:
  *     summary: Login a user
  *     description: This API logs in a user with email and password.
@@ -75,31 +85,8 @@ router.post('/', userController.registerUser);
  *       401:
  *         description: Invalid email or password
  */
-router.post('/login', userAuth, userController.loginUser);
 
 
-/**
- * @swagger
- * /api/v1/users/get:
- *   get:
- *     summary: Login a user
- *     description: This API logs in a user with email and password.
- *     tags:
- *       - User
- *     responses:
- *       200:
- *         description: Successful login
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 token:
- *                   type: string
- *                   example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
- *       401:
- *         description: Invalid email or password
- */
 router.get('/get', async (req, res, next) => {
     try {
         const data = await user.find();

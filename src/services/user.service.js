@@ -25,7 +25,7 @@ export const loginUser = async (email, password) => {
 export const generateToken = async(body) =>{
   const payload = body;
   const secreteKey = process.env.SECRET_KEY;
-  const token = jwt.sign(payload, secreteKey, {expiresIn: '1h'});
+  const token = jwt.sign(payload, secreteKey, {expiresIn: '30d'});
   return token;
 }
 
